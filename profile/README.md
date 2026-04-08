@@ -1,113 +1,189 @@
-# Backend-Focused MERN Developer | Stripe & PayPal Specialist
+<h1 align="center">
+  Backend-Focused MERN Developer  
+  <br>
+  Stripe | PayPal | SaaS Systems
+</h1>
 
-I build backend systems designed to handle real users, secure data, and payment workflows reliably.
-
-With 4+ years of experience in backend development, I specialize in building secure and scalable systems for SaaS platforms, subscription services, and payment-heavy applications.
-
-My focus is on the areas where most systems fail — payments, authentication, and background processing.
-
----
-
-# Core Expertise
-
-## Payment & Subscription Systems
-
-- Stripe Integration
-- PayPal Checkout Integration
-- Subscription Billing Systems
-- Webhook Handling & Retry Logic
-- Failed Payment Recovery
-- Invoice & Refund Workflows
-- Multi-Currency Payment Processing
-
-## Secure API Development
-
-- OAuth Authentication
-- JWT Authentication Systems
-- Role-Based Access Control (RBAC)
-- API Rate Limiting
-- Secure Session Handling
-- API Security Best Practices
-
-## Scalable Backend Architecture
-
-- RESTful API Development
-- MongoDB Schema Design
-- Background Job Processing
-- Real-Time Systems using Socket.IO
-- Performance Optimization
+<p align="center">
+  I build secure backend systems designed to handle real users, payments, and scalable workloads.
+</p>
 
 ---
 
-# Tech Stack
+## About Me
 
-Backend:
-- Node.js
-- Express.js
-- MongoDB
+Backend-focused MERN Stack Developer with 4+ years of experience building scalable APIs, payment systems, and SaaS platforms.
 
-Payments:
-- Stripe
-- PayPal
+My work focuses on the areas where systems usually fail:
 
-Security:
-- OAuth
-- JWT
+- Payment processing  
+- Subscription billing  
+- Authentication security  
+- Background job processing  
+- Real-time workflows  
 
-Realtime:
-- Socket.IO
-
-Other:
-- REST APIs
-- Webhooks
-- Background Jobs
+I build systems designed to remain stable under production-level conditions.
 
 ---
 
-# Featured Projects
+## Tech Stack
 
-## SaaS Subscription System (Stripe-Based)
+### Backend
 
-A production-style SaaS backend demonstrating secure subscription billing workflows.
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,javascript" />
+</p>
+
+### Payments
+
+<p>
+<img src="https://skillicons.dev/icons?i=stripe" />
+<img src="https://cdn.simpleicons.org/paypal/00457C" height="48"/>
+</p>
+
+### Security
+
+<p>
+<img src="https://skillicons.dev/icons?i=jwt" />
+<img src="https://cdn.simpleicons.org/oauth/000000" height="48"/>
+</p>
+
+### Realtime
+
+<p>
+<img src="https://skillicons.dev/icons?i=socketio" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker" />
+</p>
+
+---
+
+## Core Expertise
+
+- Stripe Integration  
+- PayPal Checkout Integration  
+- Subscription Billing Systems  
+- Webhook Handling & Retry Logic  
+- Secure API Development  
+- OAuth & JWT Authentication  
+- Role-Based Access Control  
+- REST API Architecture  
+- MongoDB Schema Optimization  
+- Real-Time Systems  
+- Background Job Processing  
+
+---
+
+## Featured Projects
+
+### SaaS Subscription System (Stripe-Based)
+
+Production-style backend demonstrating subscription billing workflows.
 
 Key Features:
 
-- Multiple subscription plans
-- Free trial support
-- Plan upgrades and downgrades
-- Stripe Checkout integration
-- Webhook-based billing lifecycle
-- Invoice management
-- Subscription cancellation handling
-- Payment failure recovery logic
+- Multi-plan subscriptions  
+- Free trial support  
+- Upgrade / downgrade plans  
+- Webhook lifecycle management  
+- Invoice tracking  
+- Payment failure handling  
+- Subscription cancellation  
 
-Tech Used:
+Tech:
 
-Node.js | Express.js | MongoDB | Stripe | Webhooks
+Node.js | Express.js | MongoDB | Stripe
 
 Status:
-In Development (Live deployment coming)
+
+In Development — Live deployment coming
 
 ---
 
-## Secure API System
+### Secure API Authentication System
 
-A backend system focused on authentication security and access control.
+Backend authentication system designed for production security.
 
 Key Features:
 
-- JWT Authentication
-- Refresh Tokens
-- Role-Based Access Control
-- Rate Limiting
-- Secure Route Protection
+- JWT Authentication  
+- Refresh Tokens  
+- Role-Based Access Control  
+- Rate Limiting  
+- Protected Routes  
 
-Tech Used:
+Tech:
 
 Node.js | Express.js | MongoDB | JWT
 
 ---
 
-## Real-Time Notification System
+### Real-Time Notification Engine
 
-A scalable real-time
+Event-driven backend supporting real-time communication.
+
+Key Features:
+
+- WebSocket-based messaging  
+- Event broadcasting  
+- Real-time updates  
+- Notification targeting  
+
+Tech:
+
+Node.js | Socket.IO | MongoDB
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=mohiodindev&show_icons=true&theme=tokyonight" />
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohiodindev&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## Current Focus
+
+Building production-grade SaaS systems with:
+
+- Subscription billing  
+- Webhook processing  
+- Queue-based background jobs  
+- Payment reliability workflows  
+
+---
+
+## Connect
+
+<p>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.upwork.com/freelancers/~01327e1dc1437b0ebc">
+<img src="https://img.shields.io/badge/Upwork-Profile-6fda44?style=for-the-badge&logo=upwork"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ghulammohiodin/">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+## Philosophy
+
+Reliable backend systems are built by handling edge cases — not just happy paths.
+
+My work focuses on stability, security, and long-term maintainability.
