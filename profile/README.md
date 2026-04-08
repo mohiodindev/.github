@@ -1,14 +1,113 @@
-<p align="center"><a href="https://iosf.in/" target="_blank"><img src="https://raw.githubusercontent.com/IndianOpenSourceFoundation/iosf-website/f38cba6cdba11cdcb90641ac192d1a36d67b6cd8/public/img/iosf-logo.svg" width="20%"></a></p>
+# Backend-Focused MERN Developer | Stripe & PayPal Specialist
 
-<h1 align="center">Indian Open Source Foundation</h1>
-<h2 align="center">Promoting open source, one step at a time 😀 👨‍💻</h2>
+I build backend systems designed to handle real users, secure data, and payment workflows reliably.
 
-> Join us as a contributor and associate with us in our journey for making Open Source Contribution lit <span role="img" aria-label="fire emoji">🔥</span> and super powerful for the budding and already existing community.
+With 4+ years of experience in backend development, I specialize in building secure and scalable systems for SaaS platforms, subscription services, and payment-heavy applications.
 
-<p align="center"><a href="https://toolsiosf.typeform.com/to/fl45kmgs" target="_blank"><img src="https://img.shields.io/badge/-Join%20Us-%23EF233C" width="10%"></a>  <a href="https://twitter.com/iosf_india" target="_blank"><img src="https://badgen.net/badge/icon/twitter?icon=twitter&label" width="13%"></a> </p>
+My focus is on the areas where most systems fail — payments, authentication, and background processing.
 
+---
 
+# Core Expertise
 
-### Below is a list of the most important repositories.
+## Payment & Subscription Systems
 
-- [Dynamic Cli](https://github.com/IndianOpenSourceFoundation/dynamic-cli): A Modern, user-friendly command-line HTTP client for the API testing, and if you're stuck - Search and browse StackOverflow without leaving the CLI.
+- Stripe Integration
+- PayPal Checkout Integration
+- Subscription Billing Systems
+- Webhook Handling & Retry Logic
+- Failed Payment Recovery
+- Invoice & Refund Workflows
+- Multi-Currency Payment Processing
+
+## Secure API Development
+
+- OAuth Authentication
+- JWT Authentication Systems
+- Role-Based Access Control (RBAC)
+- API Rate Limiting
+- Secure Session Handling
+- API Security Best Practices
+
+## Scalable Backend Architecture
+
+- RESTful API Development
+- MongoDB Schema Design
+- Background Job Processing
+- Real-Time Systems using Socket.IO
+- Performance Optimization
+
+---
+
+# Tech Stack
+
+Backend:
+- Node.js
+- Express.js
+- MongoDB
+
+Payments:
+- Stripe
+- PayPal
+
+Security:
+- OAuth
+- JWT
+
+Realtime:
+- Socket.IO
+
+Other:
+- REST APIs
+- Webhooks
+- Background Jobs
+
+---
+
+# Featured Projects
+
+## SaaS Subscription System (Stripe-Based)
+
+A production-style SaaS backend demonstrating secure subscription billing workflows.
+
+Key Features:
+
+- Multiple subscription plans
+- Free trial support
+- Plan upgrades and downgrades
+- Stripe Checkout integration
+- Webhook-based billing lifecycle
+- Invoice management
+- Subscription cancellation handling
+- Payment failure recovery logic
+
+Tech Used:
+
+Node.js | Express.js | MongoDB | Stripe | Webhooks
+
+Status:
+In Development (Live deployment coming)
+
+---
+
+## Secure API System
+
+A backend system focused on authentication security and access control.
+
+Key Features:
+
+- JWT Authentication
+- Refresh Tokens
+- Role-Based Access Control
+- Rate Limiting
+- Secure Route Protection
+
+Tech Used:
+
+Node.js | Express.js | MongoDB | JWT
+
+---
+
+## Real-Time Notification System
+
+A scalable real-time
