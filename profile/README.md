@@ -1,141 +1,174 @@
-<h1 align="center">
-  Backend-Focused MERN Developer  
-  <br>
-  Stripe | PayPal | SaaS Systems
-</h1>
+<h1 align="center">Hi 👋, I'm Ghulam Mohiodin</h1>
+
+<h3 align="center">
+Backend-Focused MERN Stack Developer | Payment Systems Specialist | DevOps-Aware Engineer
+</h3>
 
 <p align="center">
-  I build secure backend systems designed to handle real users, payments, and scalable workloads.
+I build scalable backend systems, subscription platforms, and production-grade APIs using Node.js, MongoDB, PostgreSQL, Redis, and Docker.
 </p>
 
 ---
 
 ## About Me
 
-Backend-focused MERN Stack Developer with 4+ years of experience building scalable APIs, payment systems, and SaaS platforms.
-
-My work focuses on the areas where systems usually fail:
-
-- Payment processing  
-- Subscription billing  
-- Authentication security  
-- Background job processing  
-- Real-time workflows  
-
-I build systems designed to remain stable under production-level conditions.
+- Backend-focused **MERN Stack Developer**
+- 4+ years experience building production APIs
+- Strong experience in **Stripe & PayPal integrations**
+- Experienced with **subscription billing systems**
+- Built systems handling **real-world payments and webhooks**
+- Familiar with **Docker-based deployments**
+- Experience working with **MongoDB & PostgreSQL in production**
+- Experienced in **Redis caching and background processing**
+- Focused on performance, reliability, and scalability
 
 ---
 
 ## Tech Stack
 
-### Backend
+### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,javascript" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,javascript,typescript" />
 </p>
 
-### Payments
+**Node.js • Express.js • REST APIs • Microservices • Background Jobs • Webhooks • API Optimization**
+
+---
+
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=stripe" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis" />
+</p>
+
+**MongoDB • PostgreSQL • Redis**
+
+- Database Design
+- Query Optimization
+- Indexing
+- Aggregations
+- Transactions
+- Caching Strategies
+
+---
+
+### Payment Systems
+
+<p>
+<img src="https://cdn.simpleicons.org/stripe/635BFF" height="48"/>
 <img src="https://cdn.simpleicons.org/paypal/00457C" height="48"/>
 </p>
 
-### Security
+**Stripe • PayPal**
+
+- Subscription Systems
+- Payment Intents
+- Webhook Handling
+- Invoice Systems
+- Refund Management
+- Payment Failure Recovery
+
+---
+
+### DevOps & Deployment
 
 <p>
-<img src="https://skillicons.dev/icons?i=jwt" />
-<img src="https://cdn.simpleicons.org/oauth/000000" height="48"/>
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,aws,git,github" />
 </p>
 
-### Realtime
+**Docker • Linux • Nginx • AWS / VPS**
+
+- Containerized Applications
+- Reverse Proxy Setup
+- Environment Configuration
+- CI/CD Basics
+- Production Deployment
+
+---
+
+### Frontend (Supporting Skills)
 
 <p>
-<img src="https://skillicons.dev/icons?i=socketio" />
+<img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind" />
 </p>
 
-### Tools & Platforms
+**React.js • Redux • Tailwind CSS**
+
+- Admin Dashboards
+- API Integration
+- UI Integration with Backend
+
+---
+
+### Tools & Workflow
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,docker" />
+<img src="https://skillicons.dev/icons?i=postman,vscode,git" />
 </p>
 
----
-
-## Core Expertise
-
-- Stripe Integration  
-- PayPal Checkout Integration  
-- Subscription Billing Systems  
-- Webhook Handling & Retry Logic  
-- Secure API Development  
-- OAuth & JWT Authentication  
-- Role-Based Access Control  
-- REST API Architecture  
-- MongoDB Schema Optimization  
-- Real-Time Systems  
-- Background Job Processing  
+**Postman • Git • GitHub • Debugging • Logging**
 
 ---
 
-## Featured Projects
+## Featured Expertise
 
-### SaaS Subscription System (Stripe-Based)
+### Payment & Subscription Systems
 
-Production-style backend demonstrating subscription billing workflows.
+I design and implement secure payment systems using:
 
-Key Features:
-
-- Multi-plan subscriptions  
-- Free trial support  
-- Upgrade / downgrade plans  
-- Webhook lifecycle management  
-- Invoice tracking  
-- Payment failure handling  
-- Subscription cancellation  
-
-Tech:
-
-Node.js | Express.js | MongoDB | Stripe
-
-Status:
-
-In Development — Live deployment coming
+- Stripe Subscriptions
+- PayPal Billing
+- Webhook Processing
+- Retry Mechanisms
+- Subscription Lifecycle Management
+- Invoice & Billing Automation
 
 ---
 
-### Secure API Authentication System
+### Backend System Architecture
 
-Backend authentication system designed for production security.
+Experience designing scalable backend systems including:
 
-Key Features:
-
-- JWT Authentication  
-- Refresh Tokens  
-- Role-Based Access Control  
-- Rate Limiting  
-- Protected Routes  
-
-Tech:
-
-Node.js | Express.js | MongoDB | JWT
+- REST APIs
+- Webhook-driven systems
+- Queue-based processing
+- Event-driven architecture
+- Secure authentication systems
 
 ---
 
-### Real-Time Notification Engine
+### Performance Optimization
 
-Event-driven backend supporting real-time communication.
+Focused on improving:
 
-Key Features:
+- API response time
+- Database query performance
+- Caching strategies using Redis
+- System reliability under load
 
-- WebSocket-based messaging  
-- Event broadcasting  
-- Real-time updates  
-- Notification targeting  
+---
 
-Tech:
+## Real-World Capabilities
 
-Node.js | Socket.IO | MongoDB
+✔ Production API Development  
+✔ Subscription Billing Systems  
+✔ Payment Gateway Integration  
+✔ Docker-Based Deployment  
+✔ Redis-Based Caching  
+✔ PostgreSQL Production Systems  
+✔ MongoDB Production Systems  
+✔ Webhook Retry Systems  
+✔ Secure Authentication APIs  
+
+---
+
+## Current Focus
+
+- Building scalable SaaS backends
+- Improving DevOps workflows
+- Advanced Redis-based systems
+- High-performance API design
 
 ---
 
@@ -143,47 +176,45 @@ Node.js | Socket.IO | MongoDB
 
 <p align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=mohiodindev&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=mohiodindev&show_icons=true&theme=default" />
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohiodindev&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohiodindev&layout=compact" />
 
 </p>
 
 ---
 
-## Current Focus
-
-Building production-grade SaaS systems with:
-
-- Subscription billing  
-- Webhook processing  
-- Queue-based background jobs  
-- Payment reliability workflows  
-
----
-
-## Connect
+## Connect With Me
 
 <p>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-</a>
-
 <a href="https://www.upwork.com/freelancers/~01327e1dc1437b0ebc">
-<img src="https://img.shields.io/badge/Upwork-Profile-6fda44?style=for-the-badge&logo=upwork"/>
+<img src="https://cdn.simpleicons.org/upwork/6FDA44" height="40"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ghulammohiodin/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40"/>
+</a>
+
+<a href="https://github.com/mohiodindev">
+<img src="https://cdn.simpleicons.org/github/181717" height="40"/>
 </a>
 
 </p>
 
 ---
 
-## Philosophy
+## Open To Work
 
-Reliable backend systems are built by handling edge cases — not just happy paths.
+Available for:
 
-My work focuses on stability, security, and long-term maintainability.
+- Backend Development
+- Payment Integration Projects
+- Subscription SaaS Systems
+- API Development
+- Performance Optimization
+- Docker Deployment Setup
+
+---
+
+⭐ If you're building a backend-heavy system, subscription platform, or payment-enabled SaaS — I'm the right developer to work with.
